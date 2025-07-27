@@ -1,0 +1,20 @@
+.container{
+  text-align: center;
+  font-size: large;
+}
+
+.name{
+  color: blue;
+}
+
+.school{
+  color: crimson;
+}
+
+.total{
+  color: blueviolet
+}
+
+.score{
+  color:green
+}
